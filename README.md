@@ -13,7 +13,7 @@ GemmaGuard3n reimagines child protection through a multimodal, adaptable, privac
 🔗 Live Demo Link: https://c881ed2902d7513196.gradio.live/ (valid for 7 days)
 - You can upload your own video or paste a YouTube link.
 - If the Gradio link expires (after 7 days), you can refer to demo videos in the `demo_recordings/` folder.
-- Sometime gradio servers are down, this is not code issue but a problem in gradio you can cheach status here: https://status.gradio.app/
+- Sometimes gradio servers are down, this is not code issue but a problem in gradio you can check status here: https://status.gradio.app/
 - Due to limited resources, processing may take time.
 - For faster demo, I included preloaded examples; their results were generated and visualized in the notebook, then retrieved in the demo.
 ### 4. 📄 Technical Writeup
