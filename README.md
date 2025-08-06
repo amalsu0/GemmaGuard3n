@@ -16,9 +16,9 @@ GemmaGuard3n reimagines child protection through a multimodal, adaptable, privac
 ### 3. 🌐 Gradio Demo
 🔗 Live Demo Link: https://50b6718d7592836380.gradio.live/ (valid for 7 days)
 - You can upload your own video or paste a YouTube link.
-- If the Gradio link expires (after 7 days), you can watch demo videos in the `demo_recordings/` folder.
+- If the Gradio link expires (after 7 days), you can refer to demo videos in the `demo_recordings/` folder.
 - Due to limited resources, processing may take time.
-- For faster testing, I included preloaded examples; their results were generated and shown in the notebook, then retrieved in the demo.
+- For faster demo, I included preloaded examples; their results were generated and visualized in the notebook, then retrieved in the demo.
 ### 4. 📄 Technical Writeup
 - Includes an explanation of the system, how Gemma 3N was used, and design decisions.
 
