@@ -1,9 +1,5 @@
-# GemmaGuard3n
-
+![alt text](https://github.com/amalsu0/GemmaGuard3n/blob/main/GemmaGuard3n_Logo.png "Logo")
 GemmaGuard3n reimagines child protection through a multimodal, adaptable, privacy-conscious lens. Powered by Gemma 3n, it analyzes video and multilingual audio from real-time CCTV Streams, movies, YouTube, and online content to detect personalized harm indicators adapted to each child's unique safety requirements.
-
-
----
 
 ## Submission Content
 
