@@ -8,6 +8,7 @@ GemmaGuard3n reimagines child protection through a multimodal, adaptable, privac
 ## Submission Content
 
 ### 1. 📹 Video
+🔗 Video Link: https://youtu.be/JneMslKJ8U0?feature=shared
 ### 2. 📓 Jupyter Notebook
 - Contains Gemma 3N loading code, system logic code, testing code, and Gradio demo code.
 - Includes testing examples (local video + YouTube links). Results and visualizations are shown inline in the notebook and saved in the `outputs/` folder.
