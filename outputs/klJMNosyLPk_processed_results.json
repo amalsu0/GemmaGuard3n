@@ -1,0 +1,11 @@
+{
+  "video_logs": [
+    "Visual track disabled. Skipping frames analysis."
+  ],
+  "audio_logs": [
+    "[AUDIO] Processing audio window 0: start=0.00, end=30.00\n",
+    "🛑 Harm Detected with confidence score 1.00. Saved Recorded Evidence.\n",
+    "[AUDIO] Processing audio window 1: start=25.00, end=55.00\n",
+    "✅ No Harm Detected\n"
+  ]
+}

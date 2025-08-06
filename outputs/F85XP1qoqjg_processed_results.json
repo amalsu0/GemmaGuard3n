@@ -1,0 +1,10 @@
+{
+  "video_logs": [
+    "[VIDEO] Processing video window 0: start=0.00s, end=28.06s\n",
+    "🛑 Harm Detected with confidence score 1.00. Saved Recorded Evidence.\n"
+  ],
+  "audio_logs": [
+    "[AUDIO] Processing audio window 0: start=0.00, end=30.00\n",
+    "🛑 Harm Detected with confidence score 1.00. Saved Recorded Evidence.\n"
+  ]
+}
